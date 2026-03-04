@@ -97,7 +97,7 @@ python main.py configs/tusimple.py --validate --load_from tusimple_resnet34.pth 
 
 
 We provide one trained ResNet models on CULane, downloading our best performed model (
-CULane: [BaiduDrive(code:abcd)]([https://pan.baidu.com/s/1ODKAZxpKrZIPXyaNnxcV3g](https://pan.baidu.com/s/1Cnkdhyt0-Gm08kOVnjiTSw))
+CULane: [BaiduDrive(code:abcd)](https://pan.baidu.com/s/1q3jmNgEju0LRZ8k16Cx7FQ))
 )
 
 ## Visualization
